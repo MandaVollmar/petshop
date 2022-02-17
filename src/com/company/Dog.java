@@ -5,6 +5,8 @@ public class Dog {
     private int age;
     private String color;
 
+
+
     public void setName (String name) {
         this.name = name;
     }
